@@ -5,7 +5,7 @@ A-frame Virtual Reality Art Gallery UI Demo in a Park.
 
 Virtual Reality UI coding example of a WebVR Virtual Art Gallery to be used for e-commerce shopping (not included) and developed using <a href="https://aframe.io/docs/0.9.0/introduction/">A-Frame</a>, Javascript, HTML5, PHP, and MySQL Database. All hybrid technologies are combined. <a href="https://whatis.techtarget.com/definition/LAMP-Linux-Apache-MySQL-PHP">LAMP</a> full stack development experience level assumed.  This is a starting point for building your own Virtual Reality Art Gallery!  Note: this code represents aprox. 2 months of of carefully designed and coded VR work.
 
-<strong>VR PROJECT WEBSITE:</strong> https://rocketvirtual.com/?q=content/webvr-virtual-reality-art-gallery
+<strong>PROJECT DEMO:</strong> https://rocketvirtual.com/html/Virtual_Art_Gallery_WebXR.php
 
 
 <strong>DATABASE ENTITY DIAGRAM</strong>
