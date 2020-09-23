@@ -165,8 +165,8 @@ function playSound() {
 <!-- Open a connection to the database, we are going to need it. Closed at the end -->
 <?php
 $servername = "localhost";
-$username = "touchvoi_michael";
-$password = "ButtHole69!";
+$username = "";
+$password = "";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
